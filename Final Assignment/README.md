@@ -2,11 +2,6 @@ Live site Web App Link:
 https://sentiment-analyzer-by-sabirkhanakash-intelligent-gazelle-ly.mybluemix.net/
 
 
-https://ibb.co/JHgvXpn
-https://ibb.co/ZdSC8RD
-https://ibb.co/rwcfcHS
-https://ibb.co/264cxMp
-
 To Install latest packages: 
 npm install npm@latest -s
 
